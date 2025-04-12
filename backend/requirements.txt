@@ -1,0 +1,5 @@
+FastAPI
+uvicorn
+alembic
+mysql-connector-python
+python-dotenv
